@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@emergentmethods/asknews-typescript-sdk": "^0.2.18",
+    "@langchain/community": "^0.3.7",
+    "@langchain/core": "^0.3.13",
+    "@langchain/groq": "^0.1.2",
+    "@langchain/langgraph": "^0.2.16",
+    "@langchain/openai": "^0.3.11",
+    "dotenv": "^16.4.5",
+    "langchain": "^0.3.3",
+    "sqlite3": "^5.1.7",
+    "typeorm": "^0.3.20"
+  },
+  "name": "langgraph-test",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
